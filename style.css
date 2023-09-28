@@ -1,0 +1,32 @@
+.conteiner {
+    margin-top: 35px;
+     display: flex;
+    height: 295px;
+    width: 370px;
+}
+
+.fi {
+    margin-left: 100px;
+   display: block;
+    height: 86%;
+    width: 86%;
+    object-fit: fill;
+    object-position: 20px 20px;
+}
+
+.sec {
+    display: block;
+    height: 86%;
+    width: 86%;
+    object-fit: fill;
+    object-position: 20px 20px;
+}
+
+.thi {
+    display: block;
+    height: 86%;
+    width: 86%;
+    object-fit: fill;
+    object-position: 20px 20px;
+
+}
